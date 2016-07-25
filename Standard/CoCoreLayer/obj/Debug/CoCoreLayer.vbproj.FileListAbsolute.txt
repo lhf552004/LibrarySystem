@@ -1,0 +1,9 @@
+C:\Test02\Standard\CoCoreLayer\bin\Debug\BuhlerGroup.CoCoreLayer.dll
+C:\Test02\Standard\CoCoreLayer\bin\Debug\BuhlerGroup.CoCoreLayer.pdb
+C:\Test02\Standard\CoCoreLayer\bin\Debug\BuhlerGroup.CoCoreLayer.xml
+C:\Test02\Standard\CoCoreLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Test02\Standard\CoCoreLayer\obj\Debug\Resources.resources
+C:\Test02\Standard\CoCoreLayer\obj\Debug\CoCoreLayer.vbproj.GenerateResource.Cache
+C:\Test02\Standard\CoCoreLayer\obj\Debug\BuhlerGroup.CoCoreLayer.dll
+C:\Test02\Standard\CoCoreLayer\obj\Debug\BuhlerGroup.CoCoreLayer.xml
+C:\Test02\Standard\CoCoreLayer\obj\Debug\BuhlerGroup.CoCoreLayer.pdb

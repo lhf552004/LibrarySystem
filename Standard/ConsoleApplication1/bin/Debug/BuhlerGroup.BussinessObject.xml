@@ -1,0 +1,274 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BuhlerGroup.BussinessObject
+</name>
+</assembly>
+<members>
+<member name="M:buhler.Test.DM.CRP.Handler.HandleMessage(buhler.Test.DM.CRP.IWomen)">
+	<summary>
+ 递归调用
+ </summary>
+	<param name="women"></param>
+	<remarks></remarks>
+</member><member name="T:buhler.Test.DM.CRP.Handler">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="T:buhler.Test.DM.CRP.IWomen">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="T:buhler.Test.DM.CRP.Father">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="T:buhler.Test.DM.CRP.Husband">
+	<summary>
+ Husband
+ </summary>
+	<remarks></remarks>
+</member><member name="T:buhler.Test.DM.CRP.Son">
+	<summary>
+ Son
+ </summary>
+	<remarks></remarks>
+</member><member name="F:buhler.Test.DM.bp.CarMdodel.sequence">
+	<summary>
+ the sequence of excuting
+ </summary>
+	<remarks></remarks>
+</member><member name="M:buhler.Test.DM.bp.CarMdodel.Start">
+	<summary>
+ Start the engine
+ </summary>
+	<remarks></remarks>
+</member><member name="M:buhler.Test.DM.bp.CarMdodel.Tostop">
+	<summary>
+ stop the car
+ </summary>
+	<remarks></remarks>
+</member><member name="M:buhler.Test.DM.bp.CarMdodel.Alarm">
+	<summary>
+ alarm of the car
+ </summary>
+	<remarks></remarks>
+</member><member name="M:buhler.Test.DM.bp.CarMdodel.EngineBoom">
+	<summary>
+ The sound of the engine
+ </summary>
+	<remarks></remarks>
+</member><member name="M:buhler.Test.DM.bp.CarMdodel.Run">
+	<summary>
+ It does not know which method be excute firstly
+ </summary>
+	<remarks></remarks>
+</member><member name="M:buhler.Test.DM.bp.CarMdodel.SetSequence(System.Collections.Generic.List{System.String})">
+	<summary>
+ Set the sequence
+ </summary>
+	<param name="theSequence"></param>
+	<remarks></remarks>
+</member><member name="T:buhler.Test.DM.bp.CarMdodel">
+	<summary>
+ the model of the car.It is a abstract class for all car
+ </summary>
+	<remarks></remarks>
+</member><member name="T:buhler.Test.DM.bp.BenzModel">
+	<summary>
+ Benz
+ </summary>
+	<remarks></remarks>
+</member><member name="T:buhler.Test.DM.bp.BMWModel">
+	<summary>
+ BMW
+ </summary>
+	<remarks></remarks>
+</member><member name="M:buhler.Test.DM.bp.CarBuilder.SetSequence(System.Collections.Generic.List{System.String})">
+	<summary>
+	</summary>
+	<param name="sequence"></param>
+	<remarks></remarks>
+</member><member name="M:buhler.Test.DM.bp.CarBuilder.GetCarModel">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="M:buhler.Test.DM.bp.BenzBuilder.GetCarModel">
+	<summary>
+	</summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:buhler.Test.DM.bp.BenzBuilder.SetSequence(System.Collections.Generic.List{System.String})">
+	<summary>
+	</summary>
+	<param name="sequence"></param>
+	<remarks></remarks>
+</member><member name="F:buhler.Test.DM.bp.BMWBuilder._BMW">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="M:buhler.Test.DM.bp.BMWBuilder.GetCarModel">
+	<summary>
+	</summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:buhler.Test.DM.bp.BMWBuilder.SetSequence(System.Collections.Generic.List{System.String})">
+	<summary>
+	</summary>
+	<param name="sequence"></param>
+	<remarks></remarks>
+</member><member name="M:buhler.Test.DM.bp.Director.GetBenzModelA">
+	<summary>
+ start--EngineBoom--stop
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:buhler.Test.DM.bp.Director.GetBenzModelB">
+	<summary>
+  start--EngineBoom--Alarm--stop
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:buhler.Test.DM.OP.Observer">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="P:My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:buhler.Test.DM.PP.WangPo.#ctor">
+	<summary>
+ 默认为潘金莲代理
+ </summary>
+	<remarks></remarks>
+</member><member name="T:buhler.Test.DM.CoP.IRoot">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="T:buhler.Test.DM.CoP.IBranch">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="T:buhler.Test.DM.CoP.ILeaf">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="T:buhler.Test.DM.CoP.Root">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="T:buhler.Test.DM.CoP.Corp">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="T:buhler.Test.DM.CoP.Branch">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="M:buhler.Test.DM.BrP.Corp.MakeMoney">
+	<summary>
+ 最终目的是赚钱
+ </summary>
+	<remarks></remarks>
+</member><member name="T:buhler.Test.DM.VP.Emploee">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="T:buhler.Test.DM.VP.IVisitor">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="F:buhler.Test.DM.MP.EmperorMulti.MaxNumOfEmperor">
+	<summary>
+ the max number of emperor
+ </summary>
+	<remarks></remarks>
+</member><member name="F:buhler.Test.DM.MP.EmperorMulti.EmperorInfoList">
+	<summary>
+ the info list of emperor
+ </summary>
+	<remarks></remarks>
+</member><member name="F:buhler.Test.DM.MP.EmperorMulti.EmperorList">
+	<summary>
+ the list of emperor
+ </summary>
+	<remarks></remarks>
+</member><member name="F:buhler.Test.DM.MP.EmperorMulti.CountNumOfEmperor">
+	<summary>
+ the current emperor
+ </summary>
+	<remarks></remarks>
+</member><member name="P:buhler.bussinessobject.EventTransfer.Ident">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:buhler.bussinessobject.EventTransfer.EventFlag">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:buhler.Test.DM.FP.Human.Laugh">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="M:buhler.Test.DM.FP.Human.Cry">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="M:buhler.Test.DM.FP.Human.Talk">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="T:buhler.Test.DM.IP.Project">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="T:buhler.Test.DM.IP.IProjectIterator">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="T:buhler.Test.DM.IP.ProjectIterator">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="T:buhler.Test.DM.IP.Iterator">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="T:buhler.Test.DM.SP.IStrategy">
+	<summary>
+ 策略接口
+ </summary>
+	<remarks></remarks>
+</member><member name="T:buhler.Test.DM.SP.BackDoor">
+	<summary>
+ 第一个妙计
+ </summary>
+	<remarks></remarks>
+</member><member name="T:buhler.Test.DM.SP.GivenGreenLight">
+	<summary>
+ 第二个妙计
+ </summary>
+	<remarks></remarks>
+</member><member name="T:buhler.Test.DM.SP.Context">
+	<summary>
+ 锦囊
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

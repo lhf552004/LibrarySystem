@@ -1,0 +1,12 @@
+C:\Test02\Runtime\Debug\Application.exe
+C:\Test02\Runtime\Debug\Application.pdb
+C:\Test02\Runtime\Debug\Application.xml
+C:\Test02\Application\Application\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Test02\Application\Application\obj\x86\Debug\Application.Resources.resources
+C:\Test02\Application\Application\obj\x86\Debug\ExtenionHook1.vbproj.GenerateResource.Cache
+C:\Test02\Application\Application\obj\x86\Debug\Application.exe
+C:\Test02\Application\Application\obj\x86\Debug\Application.xml
+C:\Test02\Application\Application\obj\x86\Debug\Application.pdb
+C:\图书管理系统\Application\Application\obj\x86\Debug\Application.exe
+C:\图书管理系统\Application\Application\obj\x86\Debug\Application.xml
+C:\图书管理系统\Application\Application\obj\x86\Debug\Application.pdb

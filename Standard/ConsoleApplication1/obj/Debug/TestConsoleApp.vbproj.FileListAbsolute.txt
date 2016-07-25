@@ -1,0 +1,12 @@
+C:\Test02\Standard\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Test02\Standard\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Test02\Standard\ConsoleApplication1\bin\Debug\ConsoleApplication1.xml
+C:\Test02\Standard\ConsoleApplication1\bin\Debug\BuhlerGroup.BussinessObject.dll
+C:\Test02\Standard\ConsoleApplication1\bin\Debug\BuhlerGroup.BussinessObject.pdb
+C:\Test02\Standard\ConsoleApplication1\bin\Debug\BuhlerGroup.BussinessObject.xml
+C:\Test02\Standard\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Test02\Standard\ConsoleApplication1\obj\Debug\Resources.resources
+C:\Test02\Standard\ConsoleApplication1\obj\Debug\TestConsoleApp.vbproj.GenerateResource.Cache
+C:\Test02\Standard\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Test02\Standard\ConsoleApplication1\obj\Debug\ConsoleApplication1.xml
+C:\Test02\Standard\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,10 @@
+C:\图书管理系统\Runtime\Debug\BookManagement.exe
+C:\图书管理系统\Runtime\Debug\BookManagement.pdb
+C:\图书管理系统\Runtime\Debug\BookManagement.xml
+C:\图书管理系统\Standard\BookManagement\obj\Debug\ResolveAssemblyReference.cache
+C:\图书管理系统\Standard\BookManagement\obj\Debug\BookListWinForm.resources
+C:\图书管理系统\Standard\BookManagement\obj\Debug\Resources.resources
+C:\图书管理系统\Standard\BookManagement\obj\Debug\BookManagement.vbproj.GenerateResource.Cache
+C:\图书管理系统\Standard\BookManagement\obj\Debug\BookManagement.exe
+C:\图书管理系统\Standard\BookManagement\obj\Debug\BookManagement.xml
+C:\图书管理系统\Standard\BookManagement\obj\Debug\BookManagement.pdb

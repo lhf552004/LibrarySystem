@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="TestDatabaseDataSet" targetNamespace="http://tempuri.org/TestDatabaseDataSet.xsd" xmlns:mstns="http://tempuri.org/TestDatabaseDataSet.xsd" xmlns="http://tempuri.org/TestDatabaseDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="TestDatabaseConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="TestDatabaseConnectionString (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.My.MySettings.GlobalReference.Default.TestDatabaseConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="EventTransferTableAdapter" GeneratorDataComponentClassName="EventTransferTableAdapter" Name="EventTransfer" UserDataComponentName="EventTransferTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="TestDatabaseConnectionString (MySettings)" DbObjectName="TestDatabase.dbo.EventTransfer" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT EventFlag FROM dbo.EventTransfer</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="EventFlag" DataSetColumn="EventFlag" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="TestDatabaseDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="TestDatabaseDataSet" msprop:Generator_UserDSName="TestDatabaseDataSet" msprop:EnableTableAdapterManager="True">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="EventTransfer" msprop:Generator_UserTableName="EventTransfer" msprop:Generator_RowDeletedName="EventTransferRowDeleted" msprop:Generator_TableClassName="EventTransferDataTable" msprop:Generator_RowChangedName="EventTransferRowChanged" msprop:Generator_RowClassName="EventTransferRow" msprop:Generator_RowChangingName="EventTransferRowChanging" msprop:Generator_RowEvArgName="EventTransferRowChangeEvent" msprop:Generator_RowEvHandlerName="EventTransferRowChangeEventHandler" msprop:Generator_TablePropName="EventTransfer" msprop:Generator_TableVarName="tableEventTransfer" msprop:Generator_RowDeletingName="EventTransferRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="EventFlag" msprop:Generator_UserColumnName="EventFlag" msprop:Generator_ColumnPropNameInRow="EventFlag" msprop:Generator_ColumnVarNameInTable="columnEventFlag" msprop:Generator_ColumnPropNameInTable="EventFlagColumn" type="xs:boolean" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

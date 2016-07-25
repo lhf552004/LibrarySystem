@@ -1,0 +1,9 @@
+C:\Test02\Runtime\Debug\Buhlergroup.LineControllerBase.dll
+C:\Test02\Runtime\Debug\Buhlergroup.LineControllerBase.pdb
+C:\Test02\Runtime\Debug\Buhlergroup.LineControllerBase.xml
+C:\Test02\Standard\LineControllerBase\obj\Debug\ResolveAssemblyReference.cache
+C:\Test02\Standard\LineControllerBase\obj\Debug\Resources.resources
+C:\Test02\Standard\LineControllerBase\obj\Debug\LineControllerBase.vbproj.GenerateResource.Cache
+C:\Test02\Standard\LineControllerBase\obj\Debug\Buhlergroup.LineControllerBase.dll
+C:\Test02\Standard\LineControllerBase\obj\Debug\Buhlergroup.LineControllerBase.xml
+C:\Test02\Standard\LineControllerBase\obj\Debug\Buhlergroup.LineControllerBase.pdb

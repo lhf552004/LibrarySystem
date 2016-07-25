@@ -1,0 +1,10 @@
+C:\Test02\Runtime\Debug\First.exe
+C:\Test02\Runtime\Debug\First.pdb
+C:\Test02\Runtime\Debug\First.xml
+C:\Test02\Standard\First\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Test02\Standard\First\obj\x86\Debug\First.resources
+C:\Test02\Standard\First\obj\x86\Debug\Resources.resources
+C:\Test02\Standard\First\obj\x86\Debug\First.vbproj.GenerateResource.Cache
+C:\Test02\Standard\First\obj\x86\Debug\First.exe
+C:\Test02\Standard\First\obj\x86\Debug\First.xml
+C:\Test02\Standard\First\obj\x86\Debug\First.pdb

@@ -1,0 +1,11 @@
+C:\Test02\Standard\Second\obj\Debug\ResolveAssemblyReference.cache
+C:\Test02\Standard\Second\obj\Debug\Resources.resources
+C:\Test02\Standard\Second\obj\Debug\Second.resources
+C:\Test02\Standard\Second\obj\Debug\Second.vbproj.GenerateResource.Cache
+C:\Test02\Runtime\Debug\Second.exe
+C:\Test02\Runtime\Debug\Second.pdb
+C:\Test02\Runtime\Debug\Second.xml
+C:\Test02\Standard\Second\obj\Debug\Second.exe
+C:\Test02\Standard\Second\obj\Debug\Second.xml
+C:\Test02\Standard\Second\obj\Debug\Second.pdb
+C:\Test02\Runtime\Debug\Second.exe.config

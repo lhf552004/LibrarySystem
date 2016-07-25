@@ -1,0 +1,9 @@
+C:\Test02\Application\ExtensionHook2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Test02\Application\ExtensionHook2\obj\x86\Debug\ExtensionHook2.vbproj.GenerateResource.Cache
+C:\Test02\Runtime\Debug\BuhlerGroup.ExtensionHook2App.pdb
+C:\Test02\Runtime\Debug\BuhlerGroup.ExtensionHook2App.xml
+C:\Test02\Application\ExtensionHook2\obj\x86\Debug\Resources.resources
+C:\Test02\Application\ExtensionHook2\obj\x86\Debug\BuhlerGroup.ExtensionHook2App.xml
+C:\Test02\Application\ExtensionHook2\obj\x86\Debug\BuhlerGroup.ExtensionHook2App.pdb
+C:\Test02\Runtime\Debug\BuhlerGroup.ExtensionHook2App.dll
+C:\Test02\Application\ExtensionHook2\obj\x86\Debug\BuhlerGroup.ExtensionHook2App.dll

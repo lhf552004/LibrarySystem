@@ -1,0 +1,17 @@
+C:\Test02\Standard\Second\bin\x86\Debug\Second.exe
+C:\Test02\Standard\Second\bin\x86\Debug\Second.pdb
+C:\Test02\Standard\Second\bin\x86\Debug\BuhlerGroup.BussinessObject.dll
+C:\Test02\Standard\Second\bin\x86\Debug\BuhlerGroup.BussinessObject.pdb
+C:\Test02\Standard\Second\bin\x86\Debug\BuhlerGroup.BussinessObject.xml
+C:\Test02\Standard\Second\bin\x86\Debug\Second.exe.config
+C:\Test02\Runtime\Debug\Second.exe
+C:\Test02\Runtime\Debug\Second.exe.config
+C:\Test02\Standard\Second\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Test02\Standard\Second\obj\x86\Debug\Resources.resources
+C:\Test02\Standard\Second\obj\x86\Debug\Second.resources
+C:\Test02\Standard\Second\obj\x86\Debug\Second.vbproj.GenerateResource.Cache
+C:\Test02\Standard\Second\obj\x86\Debug\Second.exe
+C:\Test02\Standard\Second\obj\x86\Debug\Second.xml
+C:\Test02\Standard\Second\obj\x86\Debug\Second.pdb
+C:\Test02\Runtime\Debug\Second.pdb
+C:\Test02\Runtime\Debug\Second.xml

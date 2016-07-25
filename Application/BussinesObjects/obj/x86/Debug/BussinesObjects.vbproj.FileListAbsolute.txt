@@ -1,0 +1,9 @@
+C:\Test02\Runtime\Debug\BussinesObjects.dll
+C:\Test02\Runtime\Debug\BussinesObjects.pdb
+C:\Test02\Runtime\Debug\BussinesObjects.xml
+C:\Test02\Application\BussinesObjects\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Test02\Application\BussinesObjects\obj\x86\Debug\BussinesObjects.Resources.resources
+C:\Test02\Application\BussinesObjects\obj\x86\Debug\BussinesObjects.vbproj.GenerateResource.Cache
+C:\Test02\Application\BussinesObjects\obj\x86\Debug\BussinesObjects.dll
+C:\Test02\Application\BussinesObjects\obj\x86\Debug\BussinesObjects.xml
+C:\Test02\Application\BussinesObjects\obj\x86\Debug\BussinesObjects.pdb

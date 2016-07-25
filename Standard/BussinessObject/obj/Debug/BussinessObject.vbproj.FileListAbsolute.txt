@@ -1,0 +1,9 @@
+C:\Test02\Standard\BussinessObject\bin\Debug\BuhlerGroup.BussinessObject.dll
+C:\Test02\Standard\BussinessObject\bin\Debug\BuhlerGroup.BussinessObject.pdb
+C:\Test02\Standard\BussinessObject\bin\Debug\BuhlerGroup.BussinessObject.xml
+C:\Test02\Standard\BussinessObject\obj\Debug\ResolveAssemblyReference.cache
+C:\Test02\Standard\BussinessObject\obj\Debug\Resources.resources
+C:\Test02\Standard\BussinessObject\obj\Debug\BussinessObject.vbproj.GenerateResource.Cache
+C:\Test02\Standard\BussinessObject\obj\Debug\BuhlerGroup.BussinessObject.dll
+C:\Test02\Standard\BussinessObject\obj\Debug\BuhlerGroup.BussinessObject.xml
+C:\Test02\Standard\BussinessObject\obj\Debug\BuhlerGroup.BussinessObject.pdb
